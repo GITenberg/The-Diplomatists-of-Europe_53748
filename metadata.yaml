@@ -1,0 +1,38 @@
+_repo: The-Diplomatists-of-Europe_53748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Capefigue, M. (Jean Baptiste Honoré Raymond)
+    aliases:
+    - Capefigue, Jean Baptiste Honoré Raymond
+    - Capefigue, M. (Jean Baptiste Honore Raymond)
+    birthdate: 1802
+    deathdate: 1872
+    gutenberg_agent_id: '40330'
+    url: http://www.gutenberg.org/2009/agents/40330
+  editor:
+    agent_name: Monteith, William
+    birthdate: 1790
+    deathdate: 1864
+    gutenberg_agent_id: '47515'
+    url: http://www.gutenberg.org/2009/agents/47515
+description: ''
+gutenberg_issued: '2016-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53748'
+  lccn: '13020083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen'
+- !lcsh 'Diplomats'
+- !lcc 'D'
+- GITenberg
+tableOfContents: Prince Metternich -- M. de Talleyrand -- Count Pozzo di Borgo --
+  M. Pasquier -- The Duke of Wellington -- The Duc de Richelieu -- Prince Hardenberg
+  -- Count Nesselrode -- Lord Castlereagh.
+title: The Diplomatists of Europe
+url: http://www.gutenberg.org/ebooks/53748
